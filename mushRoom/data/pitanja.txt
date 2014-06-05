@@ -1,0 +1,4 @@
+pitanje1#odgovor1#odgovor2#odgovor3#odgovor4
+pitanje2#odgovor12#odgovor22#odgovor32#odgovor42
+pitanje3#odgovor13#odgovor23#odgovor33#odgovor43
+jakooooooooooooodugacko pitanje s razmacima#odg1#odg2#odg3#odg4
